@@ -1,0 +1,13 @@
+Django~=3.1.6
+environs[django]~=9.3.1
+coverage
+django-notifications-hq~=1.6.0
+pathvalidate
+pre-commit~=2.10.1
+psycopg2-binary
+pytest
+pytest-cov
+pytest-django
+pytest-mock
+requests~=2.25.1
+requests-mock~=1.9.3
